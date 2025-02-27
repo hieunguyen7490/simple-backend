@@ -1,0 +1,28 @@
+{
+  "name": "simple-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+	"start": "node server.js",
+	"test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hieunguyen7490/simple-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hieunguyen7490/simple-backend/issues"
+  },
+  "homepage": "https://github.com/hieunguyen7490/simple-backend#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
